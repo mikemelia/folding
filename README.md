@@ -1,6 +1,6 @@
 # folding
 
-FIXME: description
+Uni assignment to generate a contact map for a protein.
 
 ## Installation
 
@@ -10,7 +10,7 @@ Download from http://example.com/FIXME.
 
 FIXME: explanation
 
-    $ java -jar folding-0.1.0-standalone.jar [args]
+    $ java -jar target/folding-0.1.0-standalone.jar [args]
 
 ## Options
 
